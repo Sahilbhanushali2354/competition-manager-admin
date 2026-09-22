@@ -1,4 +1,3 @@
-const Competition = () => {
-  return <div></div>;
-};
+const Competition = () => null;
+
 export default Competition;
